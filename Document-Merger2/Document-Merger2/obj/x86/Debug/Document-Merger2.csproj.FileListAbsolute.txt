@@ -1,0 +1,6 @@
+/Users/qjcbq2/Projects/Document-Merger2/Document-Merger2/obj/x86/Debug/Document-Merger2.csprojAssemblyReference.cache
+/Users/qjcbq2/Projects/Document-Merger2/Document-Merger2/obj/x86/Debug/Document-Merger2.csproj.CoreCompileInputs.cache
+/Users/qjcbq2/Projects/Document-Merger2/Document-Merger2/bin/Debug/Document-Merger2.exe
+/Users/qjcbq2/Projects/Document-Merger2/Document-Merger2/bin/Debug/Document-Merger2.pdb
+/Users/qjcbq2/Projects/Document-Merger2/Document-Merger2/obj/x86/Debug/Document-Merger2.exe
+/Users/qjcbq2/Projects/Document-Merger2/Document-Merger2/obj/x86/Debug/Document-Merger2.pdb
